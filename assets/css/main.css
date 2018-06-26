@@ -2887,6 +2887,11 @@
 				visibility: hidden;
 			}
 
+			#header.alt svg {
+				opacity: 0;
+				visibility: hidden;
+		  }
+
 		@media screen and (max-width: 736px) {
 
 			#header {
